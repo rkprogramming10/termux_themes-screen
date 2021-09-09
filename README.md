@@ -21,7 +21,7 @@ $ termux-setup-storage
   
 $ pkg update && pkg upgrade && pkg install git -y
 
-$ git clone 
+$ git clone https://github.com/rohit276/termux_themes-screen.git
 
 $ ls
 
